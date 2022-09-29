@@ -1,0 +1,4 @@
+.product-grid > div:not(.grid-footer) .c-product-tile__body__price__text,
+.product-grid > div:not(.grid-footer) .price {
+    color: black;
+}
